@@ -1,0 +1,7 @@
+title: Redmond Poetry Club
+description: Weekly tutorial notes
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
