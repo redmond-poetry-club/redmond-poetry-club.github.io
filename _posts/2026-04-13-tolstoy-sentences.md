@@ -56,3 +56,51 @@ You can:
 - Ask a question: e.g., "What are we chasing that keeps us from living?"
 
 **Goal:** One short, clear line that feels like a cross between a quote and a poem. Then share with the class and ask: "What question does this line ask you?"
+
+---
+
+## Class Notes & Student Poems
+
+*From our April 13, 2026 class*
+
+During class, we tried writing our own Tolstoy-style philosophical lines. Here are some student creations:
+
+### Student Poems
+
+> **Fish do not know water in water,**  
+> **and people do not know the air / breath in.**
+
+*The move:* What surrounds us completely becomes invisible. The fish doesn't know it's wet.
+
+> **Our life is same like the Sun—**  
+> **rise up and down.**
+
+*Using metaphor to show life's cycles.*
+
+> **A calm heart can cure three thousand ailments,**  
+> **and a calm mind can understand the principle of all things.**
+
+*An old Chinese proverb using parallelism—calm heart heals the body, calm mind comprehends truth.*
+
+> **Nature is the best healing.**
+
+> **One flower, one world; one leaf, one Bodhi.**
+
+*A Buddhist saying (一花一世界，一葉一菩提): the tiny flowers and leaves contain infinite cosmic connections. Ordinary things contain the wisdom of enlightenment.*
+
+> **Life is not a run.**  
+> **It is a stroll on the trail,**  
+> **smelling the fragrance of flowers.**
+
+> **Desire is a well—it is wet and dark.**
+
+> **Time is just time, but when was the charm?**
+
+### Writing Process Notes
+
+The class brainstormed words before writing:
+- Desire, Desert, Run, Walk, Goal, Planet, Origin, Aim
+
+> **Caterpillars—it takes a lot of steps to butterfly.**
+
+*A student's observation about transformation.*
