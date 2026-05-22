@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canción del Mariachi — Cinco de Mayo"
-date: 2026-05-05
+date: 2026-05-04
 ---
 
 *Poetry Class — Cinco de Mayo celebration*

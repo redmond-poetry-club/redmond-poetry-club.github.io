@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anglo-Saxon Riddles & The Road Not Taken"
-date: 2026-05-19
+date: 2026-05-18
 ---
 
 This week we explored the playful wisdom of Anglo-Saxon riddles and the deceptive simplicity of Robert Frost's most famous poem.
@@ -10,6 +10,10 @@ This week we explored the playful wisdom of Anglo-Saxon riddles and the deceptiv
 
 *Translated by Richard Hamer*  
 *Source: The Norton Anthology of Poetry (1996)*
+
+### Historical Background
+
+The Anglo-Saxons were Germanic tribes—Angles, Saxons, and Jutes—who migrated from what is now Germany and Denmark to Britain after the Roman withdrawal (5th–6th century). They brought their language (Old English), warrior culture, and oral poetry traditions. The Exeter Book, where these riddles survive, was compiled around 970 AD—a rare window into a world where poetry was riddle, prayer, and battle-song all at once.
 
 The Anglo-Saxons loved riddles. These three come from the Exeter Book, a 10th-century manuscript. Each riddle personifies an object, challenging us to see ordinary things anew.
 
@@ -44,7 +48,9 @@ The Anglo-Saxons loved riddles. These three come from the Exeter Book, a 10th-ce
 > And clearly sing, when I am not in touch  
 > With earth or water, but a flying spirit.
 
-**Answer:** *A Swan*
+**Traditional answer:** *A Swan*
+
+**Student's interpretation:** *A Paddle* — The splashed water is the "dress," silent when still; the paddle pushes forward in the water, and when lifted out, it resembles the notion of flight, singing through the air.
 
 ### Riddle 3
 
@@ -57,7 +63,9 @@ The Anglo-Saxons loved riddles. These three come from the Exeter Book, a 10th-ce
 
 *\*A "lay" is a short poem intended to be sung.*
 
-**Answers:** 1. Shield, 2. Swan, 3. Bookworm
+**Traditional answer:** *A Bookworm*
+
+**Student's interpretation:** *Time* — What else steals knowledge from a person, not by force, but silently? Memory fades with time. The words, the poems, consumed in darkness — and time is no wiser for having taken them.
 
 ---
 
@@ -127,3 +135,5 @@ The poem explores:
 - **The impossibility of living multiple lives at once**
 
 Its elegance comes from Frost's conversational language combined with deep philosophical reflection beneath the surface.
+
+**Student's interpretation:** The road less traveled—a life choice made by fewer people—doesn't necessarily mean better or worse. The poem says nothing about that either. It merely made *a difference*. Not "a better life," not "a worse life"—just a different one.

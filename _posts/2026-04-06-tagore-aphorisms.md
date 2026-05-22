@@ -16,6 +16,8 @@ Tagore wrote these as single-line poems—aphorisms that hold a nature image and
 
 *The move:* Suffering and beauty are not opposites. One produces the other.
 
+**Student's interpretation:** The cross of Jesus is also a symbol of suffering and beauty at the same time.
+
 > **No. 6:** If you shed tears when you miss the sun, you also miss the stars.
 
 *The move:* Grief has a cost you didn't account for. He shows you the sky instead of telling you to stop crying.
@@ -47,3 +49,11 @@ Tagore wrote these as single-line poems—aphorisms that hold a nature image and
 Foundation before surface. One move.
 
 **The lesson is never stated. The image IS the lesson. If you feel the urge to explain—stop. The poem is done before the explanation.**
+
+---
+
+## Class Notes
+
+> **Caterpillars—it takes a lot of steps to butterfly.**
+
+*A student's Tagore-style observation about transformation.*

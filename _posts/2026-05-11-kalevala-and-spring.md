@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Kalevala & Shakespeare's Spring"
-date: 2026-05-06
+date: 2026-05-11
 ---
 
-*Class notes from May 6, 2026 (4:27 PM)*
+*Class notes from May 11, 2026*
 
 This week we explored two very different poetic traditions: the Finnish national epic and Shakespeare's longing for spring.
 

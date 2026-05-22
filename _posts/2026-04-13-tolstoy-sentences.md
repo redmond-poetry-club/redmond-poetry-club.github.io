@@ -95,12 +95,3 @@ During class, we tried writing our own Tolstoy-style philosophical lines. Here a
 > **Desire is a well—it is wet and dark.**
 
 > **Time is just time, but when was the charm?**
-
-### Writing Process Notes
-
-The class brainstormed words before writing:
-- Desire, Desert, Run, Walk, Goal, Planet, Origin, Aim
-
-> **Caterpillars—it takes a lot of steps to butterfly.**
-
-*A student's observation about transformation.*
